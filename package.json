@@ -1,0 +1,26 @@
+{
+  "name": "day32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iamlegend001/Day32.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Iamlegend001/Day32/issues"
+  },
+  "homepage": "https://github.com/Iamlegend001/Day32#readme",
+  "dependencies": {
+    "@langchain/core": "^0.3.72",
+    "@langchain/google-genai": "^0.2.16",
+    "dotenv": "^17.2.1"
+  }
+}
